@@ -1,2 +1,2 @@
 # github-final-project
-Just a exercise for coursera. 
+Just a exercise for IBM Educational. 
